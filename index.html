@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Josefin Sans">
     <link rel="stylesheet" href="css/style.css">
+    <script src="script.js"></script>
 </head>
 
 <body>
@@ -26,14 +27,15 @@
             </div>
 
             <ul class="social-icons-list">
-                <li href="" # class="social-link"><i class="fab fa-facebook"></i></li>
-                <li href="" # class="social-link"><i class="fab fa-twitter"></i></li>
-                <li href="" # class="social-link"><i class="fab fa-google-plus-g"></i></li>
-                <li href="" # class="social-link"><i class="fab fa-instagram"></i></li>
+                <li href="" # class="social-link linkedin"><i class="fab fa-linkedin"></i></li>
+                <li href="" # class="social-link github"><i class="fab fa-github"></i></li>
+                <li href="" # class="social-link instagram"><i class="fab fa-instagram"></i></li>
             </ul>
 
             <div class="year">
-                <p>2018</p>
+                <script>   
+                    document.write('<p>' + currentYear + '</p>');
+                </script>
             </div>
         </div>
         <!--sidebar end-->
