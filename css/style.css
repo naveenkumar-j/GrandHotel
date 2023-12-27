@@ -85,4 +85,14 @@ body {
 }
 
 /* end of side bar */
+/* navigation */
+.navigation{
+    margin-left: 8rem;
+    position: fixed;
+}
+
+.navigation-item{
+    list-style: none;
+}
+/* navigation end */
 /* end of navbar */
