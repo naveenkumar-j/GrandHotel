@@ -35,11 +35,7 @@ The Grand Hotel website is made with pure CSS, HTML, and JavaScript with full re
 2. Animation.
 
 ## Project Demo:
-
-
-https://user-images.githubusercontent.com/70682152/204140066-5080a44a-315f-4258-a08d-1dbf3ede0c09.mp4
-
-
+https://github.com/naveenkumar-j/GrandHotel/assets/70682152/1a5952ad-4e1c-40ec-9eb8-0840e9e23168
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
