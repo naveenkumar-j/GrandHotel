@@ -1,5 +1,5 @@
 <h1 align="center">The GrandHotel Website</h1> 
-<h4 align="center"><a href="https://naveenkumar-j.github.io/Number-Guesser-game-in-JavaScript/index.html" target="_blank">Live Preview</a></h4> 
+<h4 align="center"><a href="https://naveenkumar-j.github.io/GrandHotel/index.html" target="_blank">Live Preview</a></h4> 
 
 - ### Tech Stack used:
 	<center>
@@ -28,7 +28,7 @@
 	</center>
 
 ## About Project:
-The Grand Hotel website is made with pure css, html and javascript.
+The Grand Hotel website is made with pure CSS, HTML, and JavaScript with full responsiveness across all screen sizes.
 
 ## CSS Concepts used:
 1. Flexbox.
