@@ -1,4 +1,4 @@
-<h1 align="center">the GrandHotel Website</h1> 
+<h1 align="center">The GrandHotel Website</h1> 
 <h4 align="center"><a href="https://naveenkumar-j.github.io/Number-Guesser-game-in-JavaScript/index.html" target="_blank">Live Preview</a></h4> 
 
 - ### Tech Stack used:
