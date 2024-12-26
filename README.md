@@ -1,4 +1,4 @@
-<h1 align="center">The GrandHotel Website</h1> 
+<h1 align="center" id="grand-hotel">The GrandHotel Website</h1> 
 <h4 align="center"><a href="https://naveenkumar-j.github.io/GrandHotel/index.html" target="_blank">Live Preview</a></h4> 
 
 - ### Tech Stack used:
@@ -38,6 +38,6 @@ The Grand Hotel website is made with pure CSS, HTML, and JavaScript with full re
 https://github.com/naveenkumar-j/GrandHotel/assets/70682152/1a5952ad-4e1c-40ec-9eb8-0840e9e23168
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#grand-hotel">↥ back to top</a></b>
 </div>
 
